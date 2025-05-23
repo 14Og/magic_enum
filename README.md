@@ -10,8 +10,6 @@
 
 Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code.
 
-If you like this project, please consider donating to one of the funds that help victims of the war in Ukraine: https://u24.gov.ua.
-
 ## Documentation
 
 * [Reference](doc/reference.md)
